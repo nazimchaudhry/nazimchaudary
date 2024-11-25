@@ -7,5 +7,6 @@ connect with me :) **nazimchaudhry21@gmail.com**
 
 ### Skills
 
- [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)      [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs)](https://skillicons.dev)      [![My Skills](https://skillicons.dev/icons?i=postgres,docker)](https://skillicons.dev)      [![My Skills](https://skillicons.dev/icons?i=grafana,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=reactnative)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postgres,docker)](https://skillicons.dev)     
 <br/>
