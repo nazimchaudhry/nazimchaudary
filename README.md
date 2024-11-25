@@ -2,7 +2,7 @@
 <h3 align="center"> Software Developer</h3>
 
 learning **Full-stack development skills**  
-working as a **Frontend developer (NestJS)**  
+working as a **Frontend developer**  
 connect with me :) **nazimchaudhry21@gmail.com**
 
 ### Skills
